@@ -243,6 +243,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "4.2.4"
+  sizedbox_extention:
+    dependency: "direct main"
+    description:
+      name: sizedbox_extention
+      sha256: caf42df5f802a87b432e07e6754e5bf65cb2ac89d062f00bd918c3cfb01f92d3
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.0.2"
   sky_engine:
     dependency: transitive
     description: flutter
